@@ -1,0 +1,50 @@
+* {
+  color: black;
+  background: transparent;
+  font-size: 12pt;
+  font-family: serif;
+}
+
+@page {
+  margin: 0.5in;
+}
+
+#logo {
+  text-align: center;
+  font-size: 150%;
+}
+
+#intro h1 {
+  text-align: center;
+  font-size: 110%;
+}
+
+h2 {
+  font-size: 110%;
+}
+
+h3 {
+  font-size: 100%;
+}
+
+h4 > p {
+  font-size: 80%;
+}
+
+ol > li {
+  font-size: 75%;
+}
+
+
+nav {
+  display: none;
+}
+
+a {
+  text-decoration: none;
+  font-size: 100%;
+}
+
+footer {
+  display: none;
+}

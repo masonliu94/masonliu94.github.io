@@ -77,19 +77,15 @@ header {
 
 
 #container {
-  max-width: 1000px;
+  max-width: 685px;
   min-width: 200px;
-  margin: 0 auto;
+  margin-left: 275px;
   padding-up: 20px;
   padding-down: 20px;
   position: relative;
   color: #6F2E21;
 }
 
-#secondnavbar {
-  padding: 10px;
-
-}
 
 
 h1 {
@@ -98,6 +94,10 @@ h1 {
   font-size: 175%;
   text-align: center;
   letter-spacing: 3px;
+}
+
+#resume h1 {
+  font-size: 150%;
 }
 
 
